@@ -10,7 +10,7 @@ A simple realtime location tracker web app built with Node.js, Express, Socket.i
 
 ## Screenshot
 
-![Realtime Location Tracker Screenshot](public\images\image.png)
+![Realtime Location Tracker Screenshot](https://github.com/prince-taak04/real-time-device-tracker/blob/main/public/images/image.png)
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ A simple realtime location tracker web app built with Node.js, Express, Socket.i
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/realtime_tracker.git
+    git clone https://github.com/prince-taak04/real-time-device-tracker.git
     cd realtime_tracker
     ```
 

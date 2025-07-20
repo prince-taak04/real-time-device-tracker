@@ -23,7 +23,7 @@ A simple realtime location tracker web app built with Node.js, Express, Socket.i
 1. Clone the repository:
     ```sh
     git clone https://github.com/prince-taak04/real-time-device-tracker.git
-    cd realtime_tracker
+    cd real-time-device-tracker
     ```
 
 2. Install dependencies:
@@ -33,7 +33,7 @@ A simple realtime location tracker web app built with Node.js, Express, Socket.i
 
 3. Start the server:
     ```sh
-    node app.js
+    npx nodemon app.js
     ```
 
 4. Open your browser and go to [http://localhost:3001](http://localhost:3001)
